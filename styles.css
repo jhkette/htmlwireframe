@@ -98,3 +98,17 @@ h2 {
     border: 1px solid #404040;
     width: 25rem;
 }
+
+
+/* page 2 styles */
+.sidenav{
+    width: 35rem;
+    border: 1px solid #404040;
+    height: 40rem;
+}
+
+.mainbody{
+    width: 65%;
+    border: 1px solid #404040;
+    height: 60rem
+}

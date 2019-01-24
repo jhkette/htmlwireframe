@@ -124,7 +124,7 @@ h3 {
 
 /* page 2 styles */
 .mainbody {
-    width: 60rem;
+    width: 80rem;
     border: 1px solid #404040;
     height: 50rem;
 }
@@ -133,4 +133,10 @@ h3 {
     width: 30rem;
     border: 1px solid #404040;
     height: 50rem;
+}
+
+.breadcrumbs{
+    width: 30rem;
+    border: 1px solid #404040;
+    height: 5rem;
 }

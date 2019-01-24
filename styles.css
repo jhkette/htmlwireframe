@@ -51,7 +51,26 @@ h2 {
     width: 100%;
     height: 50rem;
     border: 1px solid #404040;
+    display: flex;
+    justify-content: space-between;
 }
+.leadimage{
+
+    height: 50rem;
+    border: 1px solid #404040;
+    width: 60rem;
+    background-color: #ededed;
+}
+
+.introbody{
+
+    height: 50rem;
+    border: 1px solid #404040;
+    width: 60rem;
+
+}
+
+
 
 .newscontainer {
     width: 100%;
@@ -99,16 +118,15 @@ h2 {
     width: 25rem;
 }
 
-
 /* page 2 styles */
-.sidenav{
-    width: 35rem;
+.mainbody {
+    width: 60rem;
     border: 1px solid #404040;
-    height: 40rem;
+    height: 50rem;
 }
 
-.mainbody{
-    width: 65%;
+.sidenav {
+    width: 30rem;
     border: 1px solid #404040;
-    height: 60rem
+    height: 50rem;
 }

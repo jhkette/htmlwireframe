@@ -88,7 +88,6 @@ h3 {
 .news {
     flex: 45%;
     border: 1px solid #404040;
-    height: 50rem;
     margin-top: 3rem;
     margin-right: 1rem;
     display: flex;
@@ -98,7 +97,6 @@ h3 {
 
 .newsitem {
     width: 100%;
-
     border: 1px solid #404040;
     margin-top: 2rem;
 }
@@ -125,7 +123,7 @@ h3 {
     width: 25rem;
 }
 
-/* page 2 styles */
+/*---------------------------- page 2 styles--------------------------------------------------- */
 .mainbody {
     flex-grow: 1;
     flex-shrink: 1;
